@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor and operating system
+.DS_Store
+.vscode/
+
+# Generated artifacts
+*.pkl
+*.joblib
+*.log
+
+# Dataset files (keep large/raw data out of Git initially)
+data/*
+!data/.gitkeep
