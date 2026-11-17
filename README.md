@@ -84,6 +84,20 @@ These results are from the current train/test split and modeling pipeline. They 
 - [ ] Build an interactive prediction interface using Streamlit
 - [ ] Document final model comparisons and limitations
 
+## AI-Assisted Frontend Development
+
+The frontend of HousePrice Lab was developed with the assistance of AI tools.
+
+AI was used to accelerate UI development, explore design directions,
+and create a polished, interactive Streamlit interface.
+
+The ML workflow, including data preprocessing, model experimentation,
+evaluation, and integration of the trained model into the application,
+formed the core of my project development.
+
+This project reflects my approach to using AI as a development
+accelerator while continuing to understand the underlying implementation.
+
 ## ▶️ Getting Started
 
 Clone the repository:
